@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AbiturientApp/app/src/main/res/drawable/custom_button.xml" value="0.198" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/drawable/ic_instituteinfo.xml" value="0.1" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_about_volgu.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_choice_institute.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_contacts_volgu.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_ien_kafedra.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_ifimkk_kafedra.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_iimost_kafedra.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_imit_kafedra.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_imo_kafedra.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_institute_page.xml" value="0.2" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_ipt_kafedra.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_iu_kafedra.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/activity_start.xml" value="0.18802083333333333" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/input_scores.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/institute_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/registry_window.xml" value="0.16" />
+        <entry key="..\:/AbiturientApp/app/src/main/res/layout/sign_window.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

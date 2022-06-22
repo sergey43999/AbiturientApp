@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570739370100",
+    "project_id": "abiturientapp-e49bc",
+    "storage_bucket": "abiturientapp-e49bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570739370100:android:b467f17bf21f3beb15c921",
+        "android_client_info": {
+          "package_name": "com.example.abiturientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570739370100-4pc5mc8lmdcg0fnunp56qogaeupb169a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abiturientapp",
+            "certificate_hash": "eb6d484043ad5e459c89ee75eb27f7dc50f4e2aa"
+          }
+        },
+        {
+          "client_id": "570739370100-o56agtn9td5is3ap1lpguaeaoudugscm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4sYXvp77iwv1dzJQZZ2D51xBewmeXm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570739370100-o56agtn9td5is3ap1lpguaeaoudugscm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

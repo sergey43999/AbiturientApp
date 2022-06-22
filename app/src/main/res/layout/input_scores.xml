@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:cardElevation="10dp">
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scores"
+        android:hint="Введите ваши баллы"
+        android:inputType="textEmailAddress"
+        android:text=""
+        android:digits="0123456789"
+        android:textColor="#D30C0C0C"
+        android:textColorHint="#D30C0C0C"
+        android:textSize="20sp">
+
+    </EditText>
+</androidx.cardview.widget.CardView>

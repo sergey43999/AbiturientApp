@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:cardElevation="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/email"
+            android:hint="Введите ваш Email"
+            android:inputType="textEmailAddress"
+            android:text=""
+            android:textColor="#D30C0C0C"
+            android:textColorHint="#D30C0C0C"
+            android:textSize="20sp">
+
+        </EditText>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/passwordRegistry"
+            android:hint="Введите Пароль"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColor="#D30C0C0C"
+            android:textColorHint="#D30C0C0C"
+            android:textSize="20sp">
+
+        </EditText>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/login"
+            android:hint="Введите ваш Логин"
+            android:inputType="text"
+            android:text=""
+            android:textColor="#D30C0C0C"
+            android:textColorHint="#D30C0C0C"
+            android:textSize="20sp">
+
+        </EditText>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phone"
+            android:hint="Введите номер телефона"
+            android:inputType="phone"
+            android:text=""
+            android:textColor="#D30C0C0C"
+            android:textColorHint="#D30C0C0C"
+            android:textSize="20sp">
+
+        </EditText>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
